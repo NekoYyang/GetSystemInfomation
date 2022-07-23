@@ -1,0 +1,9 @@
+D:\MyProject\DemoCSharp\DemoEnvironment\bin\Debug\DemoEnvironment.exe.config
+D:\MyProject\DemoCSharp\DemoEnvironment\bin\Debug\DemoEnvironment.exe
+D:\MyProject\DemoCSharp\DemoEnvironment\bin\Debug\DemoEnvironment.pdb
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.csprojResolveAssemblyReference.cache
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.MainFrom.resources
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.Properties.Resources.resources
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.csproj.GenerateResource.Cache
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.exe
+D:\MyProject\DemoCSharp\DemoEnvironment\obj\Debug\DemoEnvironment.pdb
